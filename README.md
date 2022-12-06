@@ -11,10 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=xct007&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xct007&theme=default&hide_border=true)<br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xct007&repo=nekopoi-scraper&theme=default)](https://github.com/xct007/nekopoi-scraper)
+
 ___
 <p align="center">Visitors</p>
-
 
 ![](https://count.getloli.com/get/@xct007?theme=rule34)
 
