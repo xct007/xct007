@@ -11,7 +11,24 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=xct007&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xct007&theme=default&hide_border=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xct007&theme=dracula)
 
+<div align="center">
+<p>Currently listening:</p>
+
+![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31jlxhrwmfioxnorylcazb44ifwy&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=falserue&background_color=121212&bar_color=53b14f&bar_color_cover=true)
+
+</div>
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My github stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xct007&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xct007&theme=dracula)
+<br>
+</details>
 
 ___
 <p align="center">Visitors</p>
