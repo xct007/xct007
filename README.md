@@ -41,5 +41,3 @@ ___
 <a href="https://api.whatsapp.com/send?phone=6282186587597&text=hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="mailto:davidstefen56@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
-### <a href="https://chat.whatsapp.com/CkMy4N6hOVB7nEEGe7sqmV" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a> Group Chat
