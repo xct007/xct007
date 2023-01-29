@@ -9,8 +9,9 @@
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xct007&theme=dracula&hide_border=true)<br/>
+___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xct007&theme=dracula)
-
+___
 <div align="center">
 <p>Currently listening:</p>
 
@@ -18,18 +19,18 @@
 
 </div>
 
-<details>
-<summary>📈 Stats</summary>
+<details><summary>📈 Stats</summary>
+<div align="center">
 <br>
-My github stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xct007&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xct007&theme=dracula)
-<br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xct007&theme=dracula" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xct007&theme=dracula" />
+
+</div>
 </details>
 
 ___
-<p align="center">Visitors</p>
+<p align="center"><b>Visitors</b></p>
 
 ![](https://count.getloli.com/get/@xct007?theme=rule34)
 
