@@ -31,9 +31,3 @@ ___
 <p align="center"><b>Visitors</b></p>
 
 ![](https://count.getloli.com/get/@xct007?theme=rule34)
-
-
-### [` 🗣️ Groups`]
-<p align="center">
-<a href="https://chat.whatsapp.com/CkMy4N6hOVB7nEEGe7sqmV" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
