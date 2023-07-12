@@ -5,12 +5,13 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
+<div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xct007&theme=dracula&hide_border=true)<br/>
 ___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xct007&theme=dracula)
 ___
-<div align="center">
+
 <p>Currently listening:</p>
 
 ![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31jlxhrwmfioxnorylcazb44ifwy&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=falserue&background_color=121212&bar_color=53b14f&bar_color_cover=true)
