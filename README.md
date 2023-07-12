@@ -31,4 +31,8 @@ ___
 ___
 <p align="center"><b>Visitors</b></p>
 
-![](https://count.getloli.com/get/@xct007?theme=rule34)
+<div align="center">
+  
+  ![](https://count.getloli.com/get/@xct007?theme=rule34)
+  
+</div>
