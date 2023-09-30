@@ -1,35 +1,31 @@
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-</p>
+</div>
 
 <div align="center">
+  <picture>
+      <source
+    media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      />
+    <img
+      alt="Snake"
+      src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      />
+  </picture>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=xct007&theme=dracula&hide_border=true)<br/>
-___
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xct007&theme=dracula)
-___
-
-<p>Currently listening:</p>
-
-![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31jlxhrwmfioxnorylcazb44ifwy&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=falserue&background_color=121212&bar_color=53b14f&bar_color_cover=true)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xct007)
 
 </div>
 
-<details><summary>📈 Stats</summary>
-<div align="center">
-<br>
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xct007&theme=dracula" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xct007&theme=dracula" />
-
-</div>
-</details>
-
 ___
-<p align="center"><b>Visitors</b></p>
 
 <div align="center">
   
