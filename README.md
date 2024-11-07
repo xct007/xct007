@@ -27,9 +27,6 @@
 
 ___
 
-<div align="center">
-
-  ![](https://github-profile-trophy.vercel.app/?username=xct007&theme=light&rank=S,AAA,A,B&row=2&colum=3)
-  ![](https://count.getloli.com/get/@xct007?theme=rule34)
-  
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xct007&theme=light&margin-w=15" />
+</p>
