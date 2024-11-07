@@ -25,17 +25,11 @@
 
 </div>
 
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=xct007&theme=light&rank=S,AAA,A,B&row=2&colum=3)
-
-</div>
-
 ___
 
 <div align="center">
-  
+
+  ![](https://github-profile-trophy.vercel.app/?username=xct007&theme=light&rank=S,AAA,A,B&row=2&colum=3)
   ![](https://count.getloli.com/get/@xct007?theme=rule34)
   
 </div>
