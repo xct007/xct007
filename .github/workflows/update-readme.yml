@@ -23,15 +23,4 @@ jobs:
                   SHOW_MASKED_TIME: false
                   STOP_AT_OTHER: true
                   IGNORED_LANGUAGES: YAML JSON TOML
-                  AUTHOR_EMAI: ${{ secrets.WAKA_AUTHOR_EMAIL }}
-            - uses: xct007/github-readme-info@master
-              with:
-                  GH_TOKEN: ${{ secrets.GH_TOKEN }}
-                  BRANCH: "main"
-                  TIMEZONE: "Asia/Jakarta"
-                  SHOW_LINES_OF_CODE: "True"
-                  SHOW_PROFILE_VIEWS: "True"
-                  SHOW_DAILY_COMMIT: "True"
-                  SHOW_WEEKLY_COMMIT: "True"
-                  SHOW_LANGUAGE: "True"
-                  SHOW_TOTAL_CONTRIBUTIONS: "True"
+                  AUTHOR_EMAIL: ${{ secrets.WAKA_AUTHOR_EMAIL }}
