@@ -27,6 +27,7 @@ jobs:
             - uses: xct007/github-readme-info@master
               with:
                   GH_TOKEN: ${{ secrets.GH_TOKEN }}
+                  BRANCH: "main"
                   TIMEZONE: "Asia/Jakarta"
                   SHOW_LINES_OF_CODE: "True"
                   SHOW_PROFILE_VIEWS: "True"
