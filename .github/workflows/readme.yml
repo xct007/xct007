@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Readme
 
 on:
     workflow_dispatch:
@@ -7,16 +7,14 @@ on:
 
 jobs:
     update-readme:
-        name: WakaReadme DevMetrics
+        name: Update Readme
         runs-on: ubuntu-latest
         steps:
             - uses: athul/waka-readme@master
               with:
                   GH_TOKEN: ${{ secrets.GH_TOKEN }}
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-                  ### meta
                   API_BASE_URL: https://wakatime.com/api
-                  ### content
                   SHOW_TITLE: true
                   TIME_RANGE: all_time
                   LANG_COUNT: 10
@@ -26,3 +24,13 @@ jobs:
                   STOP_AT_OTHER: true
                   IGNORED_LANGUAGES: YAML JSON TOML
                   AUTHOR_EMAI: ${{ secrets.WAKA_AUTHOR_EMAIL }}
+            - uses: th3c0d3br34ker/github-readme-info@master
+              with:
+                  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+                  TIMEZONE: "Asia/Jakarta"
+                  SHOW_LINES_OF_CODE: "True"
+                  SHOW_PROFILE_VIEWS: "True"
+                  SHOW_DAILY_COMMIT: "True"
+                  SHOW_WEEKLY_COMMIT: "True"
+                  SHOW_LANGUAGE: "True"
+                  SHOW_TOTAL_CONTRIBUTIONS: "True"
