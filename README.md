@@ -1,15 +1,3 @@
-<!--START_SECTION:waka-->
-
-```txt
-From: 06 November 2024 - To: 06 November 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <div align="center">
   <picture>
       <source
@@ -26,12 +14,16 @@ No activity tracked
       />
   </picture>
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xct007)
-
 </div>
 
 ___
+<p align="center">
+  <img src="https://readme-stats-blush-eta.vercel.app/api/top-langs/?username=xct007&layout=compact" />
+  <img src="https://readme-stats-blush-eta.vercel.app/api?username=xct007&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xct007&theme=light&margin-w=15" />
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
