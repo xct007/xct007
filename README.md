@@ -26,4 +26,13 @@ ___
   <img src="https://github-profile-trophy.vercel.app/?username=xct007&theme=light&margin-w=15" />
 </p>
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 November 2024 - To: 06 November 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
