@@ -30,13 +30,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2024 - To: 14 December 2024
+From: 06 November 2024 - To: 15 December 2024
 
-Total Time: 193 hrs 17 mins
+Total Time: 197 hrs 40 mins
 
-JavaScript     88 hrs 37 mins  ███████████░░░░░░░░░░░░░░   44.41 %
-TypeScript     85 hrs 17 mins  ██████████▓░░░░░░░░░░░░░░   42.75 %
-Other          6 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+JavaScript     89 hrs 31 mins  ███████████░░░░░░░░░░░░░░   43.90 %
+TypeScript     85 hrs 17 mins  ██████████▒░░░░░░░░░░░░░░   41.83 %
+Other          6 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
