@@ -1,5 +1,3 @@
-***<p align="center">FrierenDv</p>***
-
 <div align="center">
   <picture>
       <source
