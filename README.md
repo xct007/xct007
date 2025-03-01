@@ -25,7 +25,7 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xct007&theme=light&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xct007&no-bg=true&rank=S,AA,AAA" />
 </p>
 <!--START_SECTION:waka-->
 
