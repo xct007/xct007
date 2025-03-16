@@ -28,14 +28,14 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2024 - To: 14 March 2025
+From: 06 November 2024 - To: 15 March 2025
 
-Total Time: 585 hrs 14 mins
+Total Time: 596 hrs 48 mins
 
-TypeScript                 292 hrs 17 mins ████████████▒░░░░░░░░░░░░   48.90 %
-JavaScript                 189 hrs 23 mins ████████░░░░░░░░░░░░░░░░░   31.69 %
-Python                     38 hrs 55 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Other                      12 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TypeScript                 301 hrs 57 mins ████████████▒░░░░░░░░░░░░   49.56 %
+JavaScript                 189 hrs 33 mins ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+Python                     39 hrs 32 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Other                      12 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
