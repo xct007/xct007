@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
       <source
-    media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
       />
     <source
       media="(prefers-color-scheme: light)"
@@ -13,18 +13,19 @@
       src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
       />
   </picture>
-
 </div>
 
 ___
-<p align="center">
-  <img src="https://readme-stats-blush-eta.vercel.app/api/top-langs/?username=xct007&layout=compact" />
-  <img src="https://readme-stats-blush-eta.vercel.app/api?username=xct007&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true" />
-</p>
+<div align="center">
+  <img src="https://github-stats-extended.itsrose.net/api/top-langs?username=xct007&layout=compact&langs_count=6&show_icons=true" />
+  <img src="https://github-stats-extended.itsrose.net/api?username=xct007&show_icons=true&hide_title=true&include_all_commits=true" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-trophies.vercel.app/?username=xct007&no-frame=false&no-bg=false&margin-w=4&margin-h=2" />
-</p>
+</div>
+
+___
 <!--START_SECTION:waka-->
 
 ```txt
