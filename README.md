@@ -27,16 +27,80 @@ ___
 
 ___
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C195%20hrs%2033%20mins-blue?style=flat)
 
-```txt
-From: 06 November 2024 - To: 09 July 2026
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-Total Time: 2,148 hrs 48 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.09%20million%20lines%20of%20code-blue?style=flat)
 
-TypeScript                 1,404 hrs 2 mins      ████████████████░░░░░░░░░   63.95 %
-JavaScript                 266 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-Python                     184 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Other                      46 hrs 45 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+**🐱 My GitHub Data** 
+
+> 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 270 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 30 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3098 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+🌆 Daytime                4906 commits        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+🌃 Evening                5146 commits        ████████░░░░░░░░░░░░░░░░░   30.89 % 
+🌙 Night                  3511 commits        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2760 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Tuesday                  1986 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Wednesday                1740 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Thursday                 2287 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Friday                   2146 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Saturday                 2460 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Sunday                   3282 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               15 hrs 31 mins      ██████████████░░░░░░░░░░░   54.94 % 
+Other                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Astro                    3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Docker                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+CSS                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+
+🔥 Editors: 
+VS Code                  28 hrs 15 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  28 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               25 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+JavaScript               22 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/07/2026 05:12:54 UTC
 <!--END_SECTION:waka-->
