@@ -1,29 +1,52 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=@FrierenDv&section=header&textBg=false&reversal=true&animation=fadeIn&desc=David%20Stefen%20Alvianus&descAlign=61&descAlignY=62&fontAlignY=49&fontSize=90&fontAlign=50"
+  />
+
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/frierendv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david.stefen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frierendv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsrose.dev@gmail.com) 
+  [![](https://komarev.com/ghpvc/?username=xct007&icon=0)](https://visitcount.itsvg.in)
+</div>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.itsrose.net/api/top-langs?username=xct007&layout=compact&langs_count=6&show_icons=true&theme=onedark"
+    />
+    <img alt="Most used language" src="https://github-stats-extended.itsrose.net/api/top-langs?username=xct007&layout=compact&langs_count=6&show_icons=true" />
+  </picutre>
+
+    
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.itsrose.net/api?username=xct007&show_icons=true&hide_title=true&include_all_commits=true&theme=onedark"
+    />
+    <img alt="My GitHub profile stats" src="https://github-stats-extended.itsrose.net/api?username=xct007&show_icons=true&hide_title=true&include_all_commits=true" />
+  </picutre>
+
+  <br />
+  <br />
+  
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-trophies.vercel.app/?username=xct007&no-frame=false&no-bg=false&margin-w=4&margin-h=2&theme=onedark"
+    />
+    <img alt="My GitHub trophies" src="https://github-trophies.vercel.app/?username=xct007&no-frame=false&no-bg=false&margin-w=4&margin-h=2" />
+  </picutre>
+    
   <picture>
       <source
         media="(prefers-color-scheme: dark)"
         srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-      />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
-      />
+    />
     <img
       alt="Snake"
       src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
-      />
+    />
   </picture>
-</div>
+</p>
 
-___
-<div align="center">
-  <img src="https://github-stats-extended.itsrose.net/api/top-langs?username=xct007&layout=compact&langs_count=6&show_icons=true" />
-  <img src="https://github-stats-extended.itsrose.net/api?username=xct007&show_icons=true&hide_title=true&include_all_commits=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=xct007&no-frame=false&no-bg=false&margin-w=4&margin-h=2" />
-</div>
 
 ___
 <!--START_SECTION:waka-->
