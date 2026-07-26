@@ -91,19 +91,19 @@ Sunday                   3604 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               35 hrs 33 mins      ████████████░░░░░░░░░░░░░   47.85 % 
-JSON                     11 hrs 51 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Other                    11 hrs 50 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-CSS                      3 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Bash                     2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+TypeScript               29 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   38.13 % 
+Other                    17 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+JSON                     11 hrs 21 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+CSS                      3 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Bash                     3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-VS Code                  57 hrs 41 mins      ███████████████████░░░░░░   77.63 % 
-Antigravity IDE          15 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Neovim                   1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+VS Code                  51 hrs 18 mins      █████████████████░░░░░░░░   67.36 % 
+Antigravity IDE          19 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Neovim                   5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 
 💻 Operating System: 
-Linux                    74 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    76 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,5 +123,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:36:45 UTC
+ Last Updated on 26/07/2026 02:43:32 UTC
 <!--END_SECTION:waka-->
