@@ -58,7 +58,7 @@ ___
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 373 Contributions in the Year 2026
+> 🏆 383 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,22 +93,22 @@ Sunday                   3604 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    28 hrs 55 mins      ████████████░░░░░░░░░░░░░   46.50 % 
-TypeScript               12 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-JSON                     6 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Bash                     3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Devicetree               2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Other                    28 hrs 28 mins      █████████████░░░░░░░░░░░░   53.75 % 
+TypeScript               7 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+JSON                     4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Bash                     3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Devicetree               2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 💻 Operating System: 
-Linux                    62 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    52 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 20 mins (27.89%)
+⏱ AI Coding Time: 17 hrs 20 mins (32.74%)
 
-✍️ 545 lines written by AI, 83,433 lines written by hand (0.65% AI-written)
+✍️ 545 lines written by AI, 82,349 lines written by hand (0.66% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -119,10 +119,10 @@ Linux                    62 hrs 12 mins      ███████████�
 Gemini                   642 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.65% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.66% of written lines came from AI
 📝 Concise Prompter — average 484 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🔍 Hands-On Reviewer — 99.61% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,5 +142,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 02:31:26 UTC
+ Last Updated on 29/07/2026 02:36:55 UTC
 <!--END_SECTION:waka-->
