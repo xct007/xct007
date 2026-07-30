@@ -58,7 +58,7 @@ ___
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 383 Contributions in the Year 2026
+> 🏆 402 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,22 +93,22 @@ Sunday                   3604 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    28 hrs 28 mins      █████████████░░░░░░░░░░░░   53.75 % 
-TypeScript               7 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-JSON                     4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Bash                     3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Devicetree               2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Other                    28 hrs 20 mins      ███████████████░░░░░░░░░░   61.63 % 
+Bash                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+TypeScript               2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JSON                     2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Devicetree               2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 💻 Operating System: 
-Linux                    52 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 20 mins (32.74%)
+⏱ AI Coding Time: 17 hrs 20 mins (37.73%)
 
-✍️ 545 lines written by AI, 82,349 lines written by hand (0.66% AI-written)
+✍️ 545 lines written by AI, 81,412 lines written by hand (0.66% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -142,5 +142,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 02:36:55 UTC
+ Last Updated on 30/07/2026 02:18:05 UTC
 <!--END_SECTION:waka-->
