@@ -50,7 +50,7 @@
 
 ___
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -58,7 +58,7 @@ ___
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 402 Contributions in the Year 2026
+> 🏆 424 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,36 +93,36 @@ Sunday                   3604 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    28 hrs 20 mins      ███████████████░░░░░░░░░░   61.63 % 
-Bash                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-TypeScript               2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JSON                     2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Devicetree               2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Other                    27 hrs 23 mins      ██████████████████░░░░░░░   72.60 % 
+Devicetree               2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Diff                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-Linux                    45 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    37 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 20 mins (37.73%)
+⏱ AI Coding Time: 16 hrs 31 mins (43.78%)
 
-✍️ 545 lines written by AI, 81,412 lines written by hand (0.66% AI-written)
+✍️ 271 lines written by AI, 80,845 lines written by hand (0.33% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 171 AI Prompts
+🧠 13 AI Sessions, 178 AI Prompts
 
-Gemini                   642 lines           █████████████████████████   100.00 % 
+Gemini                   358 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.66% of written lines came from AI
-📝 Concise Prompter — average 484 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🔍 Hands-On Reviewer — 99.6% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.33% of written lines came from AI
+📝 Concise Prompter — average 467 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 99.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,5 +142,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:18:05 UTC
+ Last Updated on 31/07/2026 02:47:47 UTC
 <!--END_SECTION:waka-->
