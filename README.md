@@ -93,36 +93,37 @@ Sunday                   3604 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    27 hrs 23 mins      ██████████████████░░░░░░░   72.60 % 
-Devicetree               2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Diff                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Other                    18 hrs 30 mins      █████████████████░░░░░░░░   69.55 % 
+TypeScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Devicetree               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JavaScript               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Diff                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 Operating System: 
-Linux                    37 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 52 mins      ███████████████████████░░   93.48 % 
+Windows                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 31 mins (43.78%)
+⏱ AI Coding Time: 11 hrs 2 mins (41.52%)
 
-✍️ 271 lines written by AI, 80,845 lines written by hand (0.33% AI-written)
+✍️ 244 lines written by AI, 41,892 lines written by hand (0.58% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 178 AI Prompts
+🧠 11 AI Sessions, 140 AI Prompts
 
-Gemini                   358 lines           █████████████████████████   100.00 % 
+Gemini                   315 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.33% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.58% of written lines came from AI
 📝 Concise Prompter — average 467 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 99.77% of changed lines were hand-edited
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 99.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,5 +143,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 02:47:47 UTC
+ Last Updated on 01/08/2026 02:45:56 UTC
 <!--END_SECTION:waka-->
