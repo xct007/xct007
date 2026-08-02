@@ -93,37 +93,37 @@ Sunday                   3604 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    18 hrs 30 mins      █████████████████░░░░░░░░   69.55 % 
-TypeScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Devicetree               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-JavaScript               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Diff                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Other                    12 hrs 47 mins      ██████████████████░░░░░░░   73.44 % 
+TypeScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Diff                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+C                        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Linux                    24 hrs 52 mins      ███████████████████████░░   93.48 % 
-Windows                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Linux                    15 hrs 40 mins      ███████████████████████░░   90.03 % 
+Windows                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 2 mins (41.52%)
+⏱ AI Coding Time: 8 hrs 56 mins (51.36%)
 
-✍️ 244 lines written by AI, 41,892 lines written by hand (0.58% AI-written)
+✍️ 109 lines written by AI, 17,381 lines written by hand (0.62% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 140 AI Prompts
+🧠 6 AI Sessions, 120 AI Prompts
 
-Gemini                   315 lines           █████████████████████████   100.00 % 
+Gemini                   121 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.58% of written lines came from AI
-📝 Concise Prompter — average 467 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 99.6% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.62% of written lines came from AI
+📝 Concise Prompter — average 434 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🔍 Hands-On Reviewer — 99.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,5 +143,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 02:45:56 UTC
+ Last Updated on 02/08/2026 02:43:26 UTC
 <!--END_SECTION:waka-->
