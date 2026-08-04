@@ -50,7 +50,7 @@
 
 ___
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.31%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.31%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
@@ -91,15 +91,15 @@ Sunday                   3605 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               1 hr 34 mins        █████████████████░░░░░░░░   69.31 % 
-JavaScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-TSConfig                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               1 hr 35 mins        █████████████████░░░░░░░░   68.84 % 
+JavaScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+TSConfig                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        ███████████████████░░░░░░   76.07 % 
-Linux                    32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Windows                  1 hr 44 mins        ███████████████████░░░░░░   75.21 % 
+Linux                    34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,5 +119,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 02:46:18 UTC
+ Last Updated on 04/08/2026 02:29:08 UTC
 <!--END_SECTION:waka-->
