@@ -56,7 +56,7 @@ ___
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 436 Contributions in the Year 2026
+> 🏆 437 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -64,6 +64,39 @@ ___
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3331 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+🌆 Daytime                5548 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌃 Evening                5673 commits        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+🌙 Night                  3988 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   3242 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Tuesday                  2295 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Wednesday                1934 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Thursday                 2501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Friday                   2269 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Saturday                 2694 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Sunday                   3605 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+JSON                     26 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  26 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -81,5 +114,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:40:19 UTC
+ Last Updated on 08/08/2026 01:29:59 UTC
 <!--END_SECTION:waka-->
