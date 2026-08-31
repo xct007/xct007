@@ -56,7 +56,7 @@ ___
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 548 Contributions in the Year 2026
+> 🏆 556 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,7 +69,7 @@ ___
 ```text
 🌞 Morning                3331 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
 🌆 Daytime                5548 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-🌃 Evening                5673 commits        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+🌃 Evening                5674 commits        ████████░░░░░░░░░░░░░░░░░   30.60 % 
 🌙 Night                  3988 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -80,7 +80,7 @@ Tuesday                  2295 commits        ███░░░░░░░░�
 Wednesday                1934 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 Thursday                 2501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 Friday                   2269 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Saturday                 2694 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Saturday                 2695 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 Sunday                   3605 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
 ```
 
@@ -91,14 +91,14 @@ Sunday                   3605 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               30 hrs 1 min        █████████████████████░░░░   82.44 % 
-JSON                     2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-CSS                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-YAML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+TypeScript               22 hrs 52 mins      ██████████████████░░░░░░░   73.72 % 
+JSON                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+CSS                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 💻 Operating System: 
-Linux                    36 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +118,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 03:49:52 UTC
+ Last Updated on 31/08/2026 03:50:48 UTC
 <!--END_SECTION:waka-->
