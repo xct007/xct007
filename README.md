@@ -91,14 +91,10 @@ Sunday                   3605 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               2 hrs 13 mins       █████████████░░░░░░░░░░░░   50.22 % 
-YAML                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 25 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +114,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 03:05:39 UTC
+ Last Updated on 07/09/2026 03:05:38 UTC
 <!--END_SECTION:waka-->
