@@ -56,7 +56,7 @@ ___
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 572 Contributions in the Year 2026
+> 🏆 573 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,24 +91,24 @@ Sunday                   3566 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               49 hrs 38 mins      ████████████████████████░   94.38 % 
-JSON                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-TSConfig                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               42 hrs 27 mins      ███████████████████████░░   92.38 % 
+JSON                     2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+TSConfig                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Linux                    52 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            ██████████░░░░░░░░░░░░░░░   39.34 % 
-JavaScript               23 repos            █████████░░░░░░░░░░░░░░░░   37.70 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TypeScript               25 repos            ██████████░░░░░░░░░░░░░░░   40.32 % 
+JavaScript               23 repos            █████████░░░░░░░░░░░░░░░░   37.10 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
@@ -118,5 +118,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 04:29:21 UTC
+ Last Updated on 05/10/2026 04:15:18 UTC
 <!--END_SECTION:waka-->
