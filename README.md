@@ -91,14 +91,14 @@ Sunday                   3566 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               27 hrs 31 mins      ███████████████████████░░   90.98 % 
-JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-PHP                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               30 hrs 57 mins      ██████████████████████░░░   88.24 % 
+JSON                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+PHP                      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Linux                    30 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +118,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 04:32:11 UTC
+ Last Updated on 11/10/2026 04:12:30 UTC
 <!--END_SECTION:waka-->
