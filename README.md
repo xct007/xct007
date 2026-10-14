@@ -56,7 +56,7 @@ ___
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 573 Contributions in the Year 2026
+> 🏆 608 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,14 +91,14 @@ Sunday                   3566 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               13 hrs 2 mins       █████████████████████░░░░   82.05 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-PHP                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+TypeScript               7 hrs 40 mins       ████████████████████░░░░░   81.61 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Docker                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Linux                    15 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +118,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 05:39:25 UTC
+ Last Updated on 14/10/2026 03:42:45 UTC
 <!--END_SECTION:waka-->
