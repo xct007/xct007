@@ -10,9 +10,9 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.itsrose.net/api/top-langs?username=xct007&layout=compact&langs_count=6&show_icons=true&theme=onedark"
+      srcset="https://github-stats-extended.itsrose.my.id/api/top-langs?username=xct007&layout=compact&langs_count=6&show_icons=true&theme=onedark"
     />
-    <img alt="Most used language" src="https://github-stats-extended.itsrose.net/api/top-langs?username=xct007&layout=compact&langs_count=6&show_icons=true" />
+    <img alt="Most used language" src="https://github-stats-extended.itsrose.my.id/api/top-langs?username=xct007&layout=compact&langs_count=6&show_icons=true" />
   </picutre>
 
     
