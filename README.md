@@ -19,9 +19,9 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.itsrose.net/api?username=xct007&show_icons=true&hide_title=true&include_all_commits=true&theme=onedark"
+      srcset="https://github-stats-extended.itsrose.my.id/api?username=xct007&show_icons=true&hide_title=true&include_all_commits=true&theme=onedark"
     />
-    <img alt="My GitHub profile stats" src="https://github-stats-extended.itsrose.net/api?username=xct007&show_icons=true&hide_title=true&include_all_commits=true" />
+    <img alt="My GitHub profile stats" src="https://github-stats-extended.itsrose.my.id/api?username=xct007&show_icons=true&hide_title=true&include_all_commits=true" />
   </picutre>
 
   <br />
