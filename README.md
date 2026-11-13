@@ -50,13 +50,13 @@
 
 ___
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.29%20million%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.46%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 702 Contributions in the Year 2026
+> 🏆 1,298 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,21 +67,21 @@ ___
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3294 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-🌆 Daytime                5521 commits        ████████░░░░░░░░░░░░░░░░░   30.05 % 
-🌃 Evening                5635 commits        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-🌙 Night                  3921 commits        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+🌞 Morning                3299 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌆 Daytime                5539 commits        ████████░░░░░░░░░░░░░░░░░   30.08 % 
+🌃 Evening                5640 commits        ████████░░░░░░░░░░░░░░░░░   30.62 % 
+🌙 Night                  3939 commits        █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   3212 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Tuesday                  2247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Wednesday                1927 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Thursday                 2495 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Friday                   2252 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Saturday                 2672 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Sunday                   3566 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Monday                   3231 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Tuesday                  2247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Wednesday                1927 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Thursday                 2495 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Friday                   2252 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Saturday                 2698 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Sunday                   3567 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
 ```
 
 
@@ -91,24 +91,24 @@ Sunday                   3566 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               24 hrs 9 mins       █████████████░░░░░░░░░░░░   52.99 % 
-YAML                     3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Markdown                 2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Python                   2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JavaScript               2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+TypeScript               12 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+Docker                   6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Bash                     5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+YAML                     5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Python                   4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 
 💻 Operating System: 
-Linux                    45 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    42 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               25 repos            ██████████░░░░░░░░░░░░░░░   40.32 % 
-JavaScript               23 repos            █████████░░░░░░░░░░░░░░░░   37.10 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript               26 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
+JavaScript               23 repos            █████████░░░░░░░░░░░░░░░░   35.94 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
@@ -118,5 +118,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2026 05:18:28 UTC
+ Last Updated on 13/11/2026 15:23:58 UTC
 <!--END_SECTION:waka-->
