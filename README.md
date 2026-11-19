@@ -33,7 +33,7 @@
       srcset="https://github-trophies.vercel.app/?username=xct007&no-frame=false&no-bg=false&margin-w=4&margin-h=2&theme=onedark"
     />
     <img alt="My GitHub trophies" src="https://github-trophies.vercel.app/?username=xct007&no-frame=false&no-bg=false&margin-w=4&margin-h=2" />
-  </picutre>
+  </picture>
     
   <picture>
       <source
