@@ -50,7 +50,7 @@
 
 ___
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.47%20million%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.46%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
@@ -67,21 +67,21 @@ ___
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3299 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-🌆 Daytime                5540 commits        ████████░░░░░░░░░░░░░░░░░   30.06 % 
-🌃 Evening                5640 commits        ████████░░░░░░░░░░░░░░░░░   30.61 % 
-🌙 Night                  3949 commits        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+🌞 Morning                3299 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌆 Daytime                5540 commits        ████████░░░░░░░░░░░░░░░░░   30.07 % 
+🌃 Evening                5640 commits        ████████░░░░░░░░░░░░░░░░░   30.62 % 
+🌙 Night                  3942 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   3231 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Tuesday                  2247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Monday                   3231 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Tuesday                  2247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Wednesday                1927 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Thursday                 2496 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Friday                   2252 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Saturday                 2700 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Sunday                   3575 commits        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Thursday                 2496 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Friday                   2252 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Saturday                 2700 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Sunday                   3568 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
 ```
 
 
@@ -91,14 +91,14 @@ Sunday                   3575 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.73 % 
-Other                    1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Docker                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Bash                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+TypeScript               2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Other                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Docker                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Bash                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 
 💻 Operating System: 
-Linux                    8 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +118,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xct007/xct007/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2026 07:01:32 UTC
+ Last Updated on 27/11/2026 06:55:52 UTC
 <!--END_SECTION:waka-->
